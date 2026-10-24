@@ -113,3 +113,6 @@ We'll reach DP after the earlier patterns become comfortable.
 8. Longest Common Subsequence
 9. Longest Palindromic Subsequence
 10. 0/1 Knapsack
+
+
+![alt text](image.png)
