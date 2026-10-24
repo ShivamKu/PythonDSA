@@ -116,3 +116,8 @@ We'll reach DP after the earlier patterns become comfortable.
 
 
 ![alt text](image.png)
+
+## Array Sorting Algorithm
+![alt text](image-1.png)
+
+reference: https://www.bigocheatsheet.com/
