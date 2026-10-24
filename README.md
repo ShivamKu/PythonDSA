@@ -121,3 +121,6 @@ We'll reach DP after the earlier patterns become comfortable.
 ![alt text](image-1.png)
 
 reference: https://www.bigocheatsheet.com/
+
+## Linked List and List
+![alt text](image-2.png)
